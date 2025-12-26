@@ -1,141 +1,213 @@
-#  [Jegyzetár](https://jegyzetar.eu/)
+# [Jegyzetár](https://jegyzetar.eu/)
 
-> **Online jegyzetmegosztó platform diákoknak.**
-> Ossz meg, rendszerezz és találj jegyzeteket egyszerűen - egy helyen, átláthatóan.
+> **Közösségi jegyzetmegosztó platform diákoknak.**  
+> Ossz meg, rendszerezz és találj jegyzeteket egyszerűen – egy helyen, átláthatóan.
 
-## Projekt összefoglaló
+---
 
-A **Jegyzetár** célja, hogy egy központi, diákok által épített platformot hozzon létre, ahol bárki megoszthatja a saját jegyzeteit, kereshet másokéi között, és közösen tanulhatnak a felhasználók.
-A projekt fő fókusza az **egyszerűség**, az **átláthatóság**, és a **közösségi értékteremtés**.
+## Mi az a Jegyzetár?
 
-**Fő jellemzők:**
+A **Jegyzetár** egy diákok által épített, webalapú platform, amely lehetőséget ad jegyzetek megosztására, böngészésére és közös tanulásra.  
+Célunk egy olyan **központi tudástár** létrehozása, amely kiváltja a szétszórt Messenger-, Drive- és e-mail-alapú megoldásokat.
 
-* Jegyzetek feltöltése, rendszerezése és letöltése
-* Keresés tantárgy / kulcsszó alapján
-* Kommentelés és értékelés
-* Közösségi pontgyűjtés és badge rendszer
-* (Jövőben) Real-time közös jegyzetelés + AI-funkciók
+**Alapelveink:**
+
+- Egyszerű használat
+- Áttekinthető felépítés
+- Közösségi tudásmegosztás
+
+---
+
+## Fő funkciók
+
+- Jegyzetek feltöltése, rendszerezése és letöltése
+- Gyors keresés tantárgy, évfolyam és kulcsszó alapján
+- Kommentelés és értékelés
+- Közösségi pontgyűjtés és badge rendszer
+- *(Jövőben)* valós idejű közös jegyzetelés és AI-alapú funkciók
 
 ---
 
 ## Célközönség
 
-* Középiskolások (15–20 év)
-* Egyetemisták / főiskolások
-* Olyan diákok, akik szívesen osztanak meg jegyzeteket vagy használnák másokét
+- Középiskolások (15–20 év)
+- Egyetemisták és főiskolások
+- Olyan diákok, akik:
+  - szívesen megosztják saját jegyzeteiket
+  - hatékony, strukturált tanulási forrást keresnek
 
 ---
 
-## Fő célok
+## Projektcélok
 
-* A jegyzetek központi, könnyen kezelhető rendszere
-* A szétszórt Messenger/Drive megoldások helyettesítése
-* Gyors keresés, szűrés és letöltés jegyzetek között
-* Közösségépítés és motiváció a tanulás körül
+- Egy központi, könnyen kezelhető jegyzetrendszer kialakítása
+- A jegyzetek gyors elérhetőségének és kereshetőségének biztosítása
+- A tanulás közösségi élménnyé tétele
+- Motiváció növelése pontozási és jutalmazási rendszerekkel
 
 ---
 
-## Funkciók
+## Funkciók részletesen
 
-| Funkció                   | Leírás                                                       |
-| ------------------------- | ------------------------------------------------------------ |
-| Jegyzetfeltöltés          | PDF, Word stb. fájlok feltöltése, tárgy szerint rendszerezve |
-| Keresés és szűrés         | Tantárgy, évfolyam vagy kulcsszó alapján                     |
-| Kommentek, értékelések    | Közösségi visszajelzés és pontozás                           |
-| Kedvencek                 | Jegyzetek mentése gyors eléréshez                            |
-| Classroom-ok              | Tanulócsoportok és közös munka                               |
-| Értesítések               | Új feltöltések, hozzászólások                                |
-| Prémium                   | Offline letöltés, statisztikák, reklámmentesség stb.         |
+| Funkció                | Leírás |
+|------------------------|--------|
+| Jegyzetfeltöltés       | PDF, Word és egyéb formátumok feltöltése, tantárgy szerint |
+| Keresés és szűrés      | Tantárgy, évfolyam, kulcsszó |
+| Kommentek, értékelések | Visszajelzés és minősítés |
+| Kedvencek              | Jegyzetek mentése későbbi használatra |
+| Classroom-ok           | Tanulócsoportok és közös munka |
+| Értesítések            | Új feltöltések, hozzászólások |
+| Prémium funkciók       | Offline letöltés, statisztikák, reklámmentesség |
 
 ---
 
 ## Bevételi modell
 
-### 1. Freemium rendszer
+### 1️Freemium rendszer
 
-* **Ingyenes:** keresés, megtekintés, kommentelés
-* **Prémium:** offline letöltés, reklámmentes élmény, statisztikák, AI-funkciók
+- **Ingyenes:** keresés, megtekintés, kommentelés
+- **Prémium:** offline letöltés, reklámmentes élmény, statisztikák, AI-funkciók
 
 **Ár:** kb. 500–1000 Ft / hó
 
-### 2. Közösségi pontok & mikrotranzakciók
+### Közösségi pontok és mikrotranzakciók
 
-* Pontokat kapsz aktivitásért (feltöltés, értékelés stb.)
-* Beválthatod badge-ekre, prémium napokra vagy akár valós pénzre
+- Aktivitásért pontok járnak (feltöltés, értékelés)
+- Pontok beválthatók:
+  - badge-ekre
+  - prémium napokra
+  - akár valós pénzre
 
-### 3. Marketplace modell
+### 3️Marketplace
 
-* Saját jegyzetek értékesítése a platformon
-* Jegyzetár 10–20% jutalékot von le
+- Saját jegyzetek értékesítése
+- A Jegyzetár 10–20% jutalékot von le
 
-### 4. Reklámok – csak ízlésesen
+### 4️Reklámok (csak ízlésesen)
 
-* Oktatási hirdetések, affiliate partnerek
-* Prémium előfizetésben **nincs reklám**
+- Oktatási jellegű hirdetések
+- Prémium előfizetés esetén **nincs reklám**
 
 ---
 
 ## Design és UX
 
-**Stílus:** minimalista, modern
-**Színek:** kék–fehér paletta
-**Betűtípus:** Inter / Roboto
-**Kiemelés:** tiszta tipográfia, könnyen navigálható felület
+- **Stílus:** letisztult, modern
+- **Színek:** kék–fehér paletta
+- **Betűtípus:** Inter / Roboto
+- **Fókusz:** gyors navigáció, tiszta tipográfia
 
-**Reszponzív:**
+**Reszponzív kialakítás:**
 
-* Mobil: gyors keresés, letöltés
-* Tablet: tanulás közben kényelmes böngészés
-* Desktop: teljes funkcionalitás
+- Mobil: gyors keresés, egyszerű letöltés
+- Tablet: kényelmes tanulás
+- Desktop: teljes funkcionalitás
 
 ---
 
 ## Technológiai stack
 
-| Technológia        | Használat                                 |
-| ------------------ | ----------------------------------------- |
-| **Frontend:**      | ???                                       |
-| **Backend:**       | PHP                                       |
-| **Adatbázis:**     | MySQL                                     |
-| **Verziókezelés:** | Git + GitHub                              |
-| **Hosting:**       | RackHost                                  |
-| **Design:**        | Figma                                     |
+| Terület           | Technológia         |
+|------------------ |-------------------- |
+| **Frontend**      | React *(tervezett)* |
+| **Backend**       | PHP                 |
+| **Adatbázis**     | MySQL               |
+| **Verziókezelés** | Git + GitHub        |
+| **Hosting**       | RackHost            |
+| **Design**        | Figma               |
 
 ---
 
-## Fejlesztési ütemterv
+## A fejlesztőcsapat
 
-| Hét | Fókusz         | Részletek                                    |
-| --- | -------------- | -------------------------------------------- |
-| 1.  | Előkészítés    | Wireframe + technológiai stack véglegesítése |
-| 2.  | Alapfejlesztés | React struktúra, routing, főoldal            |
-| 3.  | Tartalom       | Jegyzetek oldala, feltöltő űrlap, kapcsolat  |
-| 4.  | Tesztelés      | Reszponzív, hibajavítás, finomhangolás       |
+A Jegyzetár egy diákok által indított és fejlesztett projekt.  
+Az alábbi személyek alkotják a projekt **alap fejlesztőcsapatát**, amely a jövőben további közreműködőkkel bővülhet.
+
+### 👤 [Baranyi Norbert](https://github.com/baranyi0)
+**Szerepkör:** Backend fejlesztő / rendszerlogika  
+**Fő fókusz:**
+- Autentikáció és fiókkezelés
+- Biztonságos bejelentkezési folyamatok
+- E-mail alapú visszaigazolási rendszerek
+- Jegyzetekhez kapcsolódó backend funkciók
+
+**Kapcsolódó fejlesztések:**
+- 2FA bejelentkezés
+- Jelszó-visszaállítás e-mail rendszer
+- Regisztrációs és e-mail-változtatási visszaigazolások
+- Kedvencek mentése
+- Külön jegyzet oldal (note.php)
+- Jegyzethez ugrás funkció
+
+### 👤 [Csontos Kincső Anasztázia](https://github.com/doomhyena)
+**Szerepkör:** Frontend fejlesztő / UI–UX  
+**Fő fókusz:**
+- Felhasználói felület és élmény (profil oldal, redesign, custom design)
+- Többnyelvűség (multilanguage támogatás)
+- Jogosultság- és adatbiztonsághoz kapcsolódó frontend logika
+- Profilfunkciók és kliensoldali validációk
+- UI-hibák javítása és finomhangolás
+
+**Kapcsolódó fejlesztések:**
+- Discord login
+- Custom profil design, oldal redesign
+- Profiladatok szerkesztése
+- Jegyzet statisztikák
+- Database helper usage
+- Frontend biztonsági fejlesztések
+
+### 👤 [PaladiTech](https://github.com/PaladiTech)
+**Szerepkör:** Full-stack fejlesztő / közösségi rendszerek  
+**Fő fókusz:**
+- Tanulócsoportok és közösségi funkciók
+- Tanár–diák rendszer kialakítása
+- Mobilos felhasználói élmény javítása
+- Monetizációs és üzleti funkciók
+- Validációk és rendszerstabilitás
+
+**Kapcsolódó fejlesztések:**
+- Tanulócsoportok létrehozása és hibajavítása
+- Tanár–diák rendszer
+- Mobil navigáció javítása
+- Hirdetések kezelése
+- Születésnapi validáció
+- Közösségi funkciók stabilizálása
+
+**Fő fókusz:**
+
+- modern webes technológiák gyakorlati alkalmazása
+- valódi felhasználói problémák megoldása
+- nyílt, fejlődő projekt szemlélet
+
+A fejlesztés folyamatos, és a projekt nyitott új ötletekre, visszajelzésekre és jövőbeli közreműködőkre.
 
 ---
 
 ## Fejlesztői környezet
 
-* Visual Studio Code
-* GitHub
-* XAMPP
-
-## Jövőbeli fejlesztések
-
-* Felhasználói profilok + pontozási rendszer
-* Mobil app verzió (React Native / Flutter)
-* Partnerprogramok iskolákkal
+- Visual Studio Code
+- GitHub
+- XAMPP
 
 ---
 
-## Mérőszámok (sikeresség)
+## Jövőbeli tervek
 
-* Aktív felhasználók száma
-* Feltöltött jegyzetek mennyisége
-* Pozitív értékelések és közösségi aktivitás
+- Felhasználói profilok és rangrendszer
+- Mobilalkalmazás (React Native / Flutter)
+- Iskolai és oktatási partnerprogramok
+- AI-alapú jegyzetösszefoglalás és keresés
 
 ---
 
-### Közösségi mottó:
+## Sikerességi mutatók
 
-> *“Tanuljunk együtt, ne külön-külön.”*
+- Aktív felhasználók száma
+- Feltöltött jegyzetek mennyisége
+- Közösségi aktivitás és értékelések
+
+---
+
+## Közösségi mottó
+
+> *"Tanuljunk együtt, ne külön-külön."*
