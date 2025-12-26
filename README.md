@@ -1,7 +1,7 @@
 # [Jegyzetár](https://jegyzetar.eu/)
 
 > **Közösségi jegyzetmegosztó platform diákoknak.**  
-> Ossz meg, rendszerezz és találj jegyzeteket egyszerűen – egy helyen, átláthatóan.
+> Ossz meg, rendszerezz és találj jegyzeteket egyszerűen - egy helyen, átláthatóan.
 
 ---
 
@@ -63,7 +63,7 @@ Célunk egy olyan **központi tudástár** létrehozása, amely kiváltja a szé
 
 ## Bevételi modell
 
-### 1️Freemium rendszer
+### Freemium rendszer
 
 - **Ingyenes:** keresés, megtekintés, kommentelés
 - **Prémium:** offline letöltés, reklámmentes élmény, statisztikák, AI-funkciók
@@ -78,12 +78,7 @@ Célunk egy olyan **központi tudástár** létrehozása, amely kiváltja a szé
   - prémium napokra
   - akár valós pénzre
 
-### 3️Marketplace
-
-- Saját jegyzetek értékesítése
-- A Jegyzetár 10–20% jutalékot von le
-
-### 4️Reklámok (csak ízlésesen)
+### Reklámok (csak ízlésesen)
 
 - Oktatási jellegű hirdetések
 - Prémium előfizetés esetén **nincs reklám**
@@ -123,7 +118,7 @@ Célunk egy olyan **központi tudástár** létrehozása, amely kiváltja a szé
 A Jegyzetár egy diákok által indított és fejlesztett projekt.  
 Az alábbi személyek alkotják a projekt **alap fejlesztőcsapatát**, amely a jövőben további közreműködőkkel bővülhet.
 
-### 👤 [Baranyi Norbert](https://github.com/baranyi0)
+### [Baranyi Norbert](https://github.com/baranyi0)
 **Szerepkör:** Backend fejlesztő / rendszerlogika  
 **Fő fókusz:**
 - Autentikáció és fiókkezelés
@@ -139,7 +134,7 @@ Az alábbi személyek alkotják a projekt **alap fejlesztőcsapatát**, amely a 
 - Külön jegyzet oldal (note.php)
 - Jegyzethez ugrás funkció
 
-### 👤 [Csontos Kincső Anasztázia](https://github.com/doomhyena)
+### [Csontos Kincső Anasztázia](https://github.com/doomhyena)
 **Szerepkör:** Frontend fejlesztő / UI–UX  
 **Fő fókusz:**
 - Felhasználói felület és élmény (profil oldal, redesign, custom design)
@@ -156,7 +151,7 @@ Az alábbi személyek alkotják a projekt **alap fejlesztőcsapatát**, amely a 
 - Database helper usage
 - Frontend biztonsági fejlesztések
 
-### 👤 [PaladiTech](https://github.com/PaladiTech)
+###  [PaladiTech](https://github.com/PaladiTech)
 **Szerepkör:** Full-stack fejlesztő / közösségi rendszerek  
 **Fő fókusz:**
 - Tanulócsoportok és közösségi funkciók
@@ -183,11 +178,14 @@ A fejlesztés folyamatos, és a projekt nyitott új ötletekre, visszajelzésekr
 
 ---
 
-## Fejlesztői környezet
+## Használt szofverek
 
-- Visual Studio Code
-- GitHub
 - XAMPP
+- Visual Studio Code
+- PhpStorm
+- Git
+- GitHub
+- Discord
 
 ---
 
